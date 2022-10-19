@@ -1,0 +1,10 @@
+{
+	"LogLevel": "debug",
+	"LogPath": "",
+	"TCPAddr": "0.0.0.0:30000",
+	"MaxConnNum": 10000,
+	"DBUrl": "mongodb://127.0.0.1:27017",
+	"DBMaxConnNum": 100,
+	"DBMysqlUrl": "root:test@tcp(10.12.32.1:3306)/leaf?charset=utf8",
+	"DBMysqlMaxConnNum": 100
+}
